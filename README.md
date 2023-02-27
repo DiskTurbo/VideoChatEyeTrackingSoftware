@@ -2,4 +2,4 @@
 
 ___COURSE PROJECT FOR INFR4460 EMERGING TECHNOLOGIES___
 
-The ultimate aim of this proposal is to make video calling a more natural and intuitive experience for all users through eye-tracking, as well as make eye-tracking a vital tool for enhancing the quality of life for people unable to use conventional input techniques.
+The ultimate aim of this project is to make video calling features such as microphone muting and video disabling a more natural and intuitive experience for users who cannot use conventional input techniques (keyboard, mouse, touchscreen, etc.) through eye-tracking.
